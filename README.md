@@ -43,4 +43,4 @@ A Java 6 compliant Java Runtime Environment is required by "JSTUN".
 
 Build
 -----------------
-Create executable jar with mvn clean `install assembly:single`.
+Create executable jar with `mvn clean install assembly:single`.
