@@ -39,3 +39,8 @@ If you found a bug or if you want to implement enhancements or additional functi
 What do you need?
 -----------------
 A Java 6 compliant Java Runtime Environment is required by "JSTUN".
+
+
+Build
+-----------------
+Create executable jar with mvn clean `install assembly:single`.
